@@ -17,8 +17,8 @@ Something similar to JIRA.
 - `Admin` can view all `todo`
 
 ## TODO
-- [] Authentication
-- [] Authorization
-- [] loggin
+- [ ] Authentication
+- [ ] Authorization
+- [ ] loggin
 ## Purpose
 - To understand backend stuffs
